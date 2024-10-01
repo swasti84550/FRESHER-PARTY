@@ -1,0 +1,2 @@
+# FRESHER-PARTY
+Beginners Bash 
