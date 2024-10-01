@@ -1,0 +1,128 @@
+body{
+    overflow-x: hidden;
+    background-image: url(https://img.freepik.com/free-vector/seamless-gold-rhombus-grid-pattern-black-background_53876-97589.jpg?w=1060&t=st=1727712914~exp=1727713514~hmac=90b67bb5c135a51f8712c4d38fcb08a2667d6b37a15ef737559807dbca34a6a4);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+  
+
+.banner{
+    width: 100%;
+    position: relative;
+}
+ 
+    
+}
+.banner .banner-text{
+    position: absolute;
+    color: #f7f8fa;
+    top: -2%;
+    left: 10%;  
+}
+.banner-text h2{
+    font-size: 65px;
+    font-family: "Playball", cursive;
+    -webkit-text-stroke: 0cqw #000;
+    color: transparent;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFQxQ7kd45OMvLhVe5-PcWQLeYxdedeyaORRVjikXXULPhrBOXmMPMVD0seY49vkiOq_I&usqp=CAU);
+    background-size: cover;
+    text-align: center;
+    -webkit-background-clip: text;
+
+}
+.quote p{
+    text-align: center;
+    padding: 0 108px;
+    font-size: 25px;
+    color: #c4c1cd;
+}
+
+.countdown-container {
+    text-align: center;
+    margin-top: 50px;
+    color: #FFD700;
+  }
+  .countdown-container h1{
+    font-family: "Luckiest Guy", cursive;;
+  }
+  
+  #countdown {
+    font-size: 48px;
+    font-family: "Luckiest Guy", cursive;
+    font-weight: bold;
+  }
+
+.info{
+    text-align: center;
+    padding: 7px 0;
+}  
+
+.info h1{
+    color: #df7a26;
+}
+
+.box {
+    border: 1px black;
+    margin: 0rem;
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  .box1 {
+    
+    display: inline-block;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 1rem 7rem;
+    vertical-align: middle;
+    background-image: url(https://img.freepik.com/free-vector/black-marble-style-background-with-golden-frame_1017-30295.jpg?h=240);
+    background-repeat: no-repeat;
+    border-radius: 15px 15px;
+    width: 200px;
+    height: 210px;
+ 
+  }
+
+  .box1 h2{
+    font-size: 28px;
+    color: #F8EDE3;
+  }
+
+  .box p{
+    color: aquamarine;
+    font-size: 18px;
+    font-family: "Sriracha", cursive; 
+  }
+
+  .box2{
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  .box2 h1{
+    color: #F8EDE3;
+    font-family:"Sriracha", cursive ;
+  }
+  .box2 h2{
+    color: aquamarine;
+    font-family: "Sriracha", cursive;
+  }
+.last{
+    text-align: center;
+
+
+}
+
+.last h4{
+    color: #df7a26;
+    font-family: "Sriracha", cursive;
+    font-size: 22px;
+}
+.last h3{
+    color: #df7a26;
+    font-family: "Sriracha", cursive;
+}
+.last a{
+  color: #e0b011;
+}
+
+
