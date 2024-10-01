@@ -34,7 +34,7 @@ body{
 }
 .quote p{
     text-align: center;
-    padding: 0 108px;
+    padding: 0 75px;
     font-size: 25px;
     color: #c4c1cd;
 }
@@ -73,7 +73,7 @@ body{
     
     display: inline-block;
     border: 1px solid rgb(0, 0, 0);
-    padding: 1rem 7rem;
+    padding: 2rem 7rem;
     vertical-align: middle;
     background-image: url(https://img.freepik.com/free-vector/black-marble-style-background-with-golden-frame_1017-30295.jpg?h=240);
     background-repeat: no-repeat;
