@@ -49,14 +49,12 @@ body{
 }
 
 .box {
-  border: 1px black;
-  margin: 0rem;
-  padding: 2rem 1rem;
+
   text-align: center;
+  display: flex;
+  justify-content: space-evenly;
 }
 .box1 {
-  
-  display: inline-block;
   border: 1px solid rgb(0, 0, 0);
   padding: 2rem 7rem;
   vertical-align: middle;
@@ -64,11 +62,28 @@ body{
   background-repeat: no-repeat;
   border-radius: 15px 15px;
   width: 200px;
-  height: 210px;
-
+  height: 175px;
+  
 }
 
 .box1 h2{
+  font-size: 28px;
+  color: #F8EDE3;
+}
+
+.box2{
+ 
+  border: 1px solid rgb(0, 0, 0);
+  padding: 2rem 7rem;
+  vertical-align: middle;
+  background-image: url(https://img.freepik.com/free-vector/black-marble-style-background-with-golden-frame_1017-30295.jpg?h=240);
+  background-repeat: no-repeat;
+  border-radius: 15px 15px;
+  width: 200px;
+  height: 175px;
+  
+}
+.box2 h2{
   font-size: 28px;
   color: #F8EDE3;
 }
@@ -79,15 +94,15 @@ body{
   font-family: "Sriracha", cursive; 
 }
 
-.box2{
+.box3{
   padding: 2rem 1rem;
   text-align: center;
 }
-.box2 h1{
+.box3 h1{
   color: #F8EDE3;
   font-family:"Sriracha", cursive ;
 }
-.box2 h2{
+.box3 h2{
   color: aquamarine;
   font-family: "Sriracha", cursive;
 }
@@ -109,6 +124,7 @@ body{
 .last a{
 color: #e0b011;
 }
+
 
 
 
